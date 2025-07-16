@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background-color: black;
+}
+.header{
+    background-color: aqua;
+}
+.header2 {
+    background-color: crimson;
+} 
+.scroll-text {
+    background-color: purple;
+    color: white;
+    margin-bottom: 20px;
+}
